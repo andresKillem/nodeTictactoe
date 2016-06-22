@@ -5,7 +5,7 @@ var querystring = require('querystring');
 var gameMod = require('./game');
 
 var port = 3000;
-var hostname = '';
+var hostname = '104.210.150.201';
 
 //start http
 var server = http.createServer(function(req, res){ 
