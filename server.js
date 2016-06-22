@@ -4,7 +4,7 @@ var io = require('socket.io');
 var querystring = require('querystring');
 var gameMod = require('./game');
 
-var port = 8080;
+var port = 3000;
 var hostname = '';
 
 //start http
